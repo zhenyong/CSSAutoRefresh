@@ -102,7 +102,7 @@
 		}
 		setTimeout(function() {
 			refreshFile(links);
-		}, 1000);
+		}, interval);
 	}
 
 	function start() {
